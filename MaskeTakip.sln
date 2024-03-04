@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{6BC1096C-0332-4EE6-A087-93DB73046EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{29070002-60A1-4A3B-8882-8E2B9DA3C0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "ConsoleApp2\Workaround.csproj", "{811F9B04-2B2E-474D-90B5-DE0C8BC08426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC1096C-0332-4EE6-A087-93DB73046EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC1096C-0332-4EE6-A087-93DB73046EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC1096C-0332-4EE6-A087-93DB73046EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC1096C-0332-4EE6-A087-93DB73046EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29070002-60A1-4A3B-8882-8E2B9DA3C0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29070002-60A1-4A3B-8882-8E2B9DA3C0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29070002-60A1-4A3B-8882-8E2B9DA3C0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29070002-60A1-4A3B-8882-8E2B9DA3C0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811F9B04-2B2E-474D-90B5-DE0C8BC08426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811F9B04-2B2E-474D-90B5-DE0C8BC08426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811F9B04-2B2E-474D-90B5-DE0C8BC08426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811F9B04-2B2E-474D-90B5-DE0C8BC08426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425FF39D-6BD8-491D-9CD6-D85CC3D80500}
+	EndGlobalSection
+EndGlobal

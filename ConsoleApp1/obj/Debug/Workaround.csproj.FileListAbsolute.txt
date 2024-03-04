@@ -1,0 +1,7 @@
+C:\Users\ABRA\source\repos\MaskeTakip\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ABRA\source\repos\MaskeTakip\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ABRA\source\repos\MaskeTakip\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ABRA\source\repos\MaskeTakip\ConsoleApp1\obj\Debug\Workaround.csproj.AssemblyReference.cache
+C:\Users\ABRA\source\repos\MaskeTakip\ConsoleApp1\obj\Debug\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\MaskeTakip\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ABRA\source\repos\MaskeTakip\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
